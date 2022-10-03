@@ -1,6 +1,6 @@
 
 # Chart.JS
-Tarefa relacionada a criação de dashboard.
+📈 Tarefa relacionada a criação de dashboard.
 
 # Tecnologias utilizadas
 
